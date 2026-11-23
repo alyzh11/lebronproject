@@ -1,1 +1,1 @@
-Egor Nikita Leha ilya
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIChqKx8SpQie18kF3Cn8B0ezFTVf6JABIw/kk2A+CGgz yaz@yaz
